@@ -1,7 +1,9 @@
-# Squeeze Threshold Verification
+# Squeeze Detection Verification
 
 ## Purpose
 This application was created to verify the squeeze onset as determined through threshold detection. However, some locations and days introduced additional noise into the data that did not allow accurate squeeze onset detection. This app shows the point of threshold detection and allows reviewers to accept or edit the location.
+
+https://github.com/user-attachments/assets/cd7f15bd-630c-408a-bcdc-20486115cf3b
 
 ## How to Use
 Coming soon!
